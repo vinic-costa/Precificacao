@@ -6,8 +6,6 @@ import pickle
 import joblib
 from sklearn.preprocessing import StandardScaler
 
-st.set_option('server.basePath', '/Precificacao')
-
 def apply_log_transformation(data):
     return np.log(data)
 
