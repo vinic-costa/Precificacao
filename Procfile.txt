@@ -1,1 +1,0 @@
-web: streamlit run app_180923_vm_tempoestoque.py
